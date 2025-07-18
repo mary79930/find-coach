@@ -48,6 +48,7 @@ header {
   display: flex;
   justify-content: center;
   align-items: center;
+  overflow-x: auto;
 }
 
 header a {
